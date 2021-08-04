@@ -1,0 +1,2 @@
+D:\CS 31 projects\Project7\Debug\Project7.exe
+D:\CS 31 projects\Project7\Debug\Project7.pdb
